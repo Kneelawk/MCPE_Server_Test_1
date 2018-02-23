@@ -1,0 +1,4 @@
+[Project]
+Name=MCPE_Server_Test_1
+Manager=KDevCMakeManager
+VersionControl=kdevgit
