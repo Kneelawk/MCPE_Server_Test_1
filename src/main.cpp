@@ -5,9 +5,6 @@
 #include "udpserver.h"
 
 #define MCPE_PORT 19132
-#define BUF_LEN 512
-
-#define MCPE_MAGIC_NUMBER 0x00ffff00fefefefefdfdfdfd12345678
 
 using namespace std;
 
